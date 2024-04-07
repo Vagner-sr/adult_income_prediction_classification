@@ -1,5 +1,3 @@
-**Project README**
-
 **Project Summary:**
 
 The project aims to analyze a dataset containing demographic information to predict whether an individual earns more than $50K annually. The dataset includes features such as age, education, occupation, marital status, and others.
