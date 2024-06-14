@@ -1,8 +1,8 @@
-**Project Summary:**
+# Project Summary:
 
 The project aims to analyze a dataset containing demographic information to predict whether an individual earns more than $50K annually. The dataset includes features such as age, education, occupation, marital status, and others.
 
-**Main Insights:**
+## Main Insights:
 
 **Demographic Trends:**
 
@@ -21,7 +21,7 @@ The project aims to analyze a dataset containing demographic information to pred
 - An ensemble of multiple models slightly improved the accuracy to 86.88%.
 - Other models such as Gradient Boosting Classifier, Random Forest, Logistic Regression, and Naive Bayes also provided competitive accuracy scores ranging from 83% to 87%.
 
-**Project Structure:**
+## Project Structure:
 
 **Data Cleaning and Preprocessing:**
 
@@ -44,6 +44,6 @@ The project aims to analyze a dataset containing demographic information to pred
 - Training various classifiers including RandomForest, XGBoost, Logistic Regression, Naive Bayes, and Gradient Boosting Classifier.
 - Evaluating model performance using accuracy scores.
 
-**Conclusion:**
+## Conclusion:
 
 The project provides valuable insights into demographic trends and their impact on income distribution. By leveraging machine learning models, it successfully predicts whether an individual earns more than $50K annually based on demographic features. The XGBoost classifier emerged as the best-performing model, achieving an accuracy score of 87.65%.
